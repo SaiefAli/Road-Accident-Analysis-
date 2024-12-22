@@ -57,9 +57,9 @@ The **Road Accident Dashboard** provides a detailed, interactive overview of roa
  
 
 
-📷 Dashboard Snapshot  
+Project file: 
 
-[Dashboard Preview](https://github.com/yourusername/your-repo-name/blob/main/Screenshot.png)  
+ https://1drv.ms/x/c/7d2653846d8b2d7c/Eb1j4yfHc8xNoaOwthRRg00Ba-bR3A5TZliX_VhCmXyowA?e=kYdvmq
 
 
  💡 Applications  
